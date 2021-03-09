@@ -1,0 +1,53 @@
+.divPrincipal {
+    width: 100%;
+    float: left;
+    margin-bottom: 5%;
+}
+
+.divItem {
+    width: 100%;
+    float: left;
+    margin-top: 0.5%;
+    margin-bottom: 3%;
+}
+
+.div_10 {
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    padding-top: 3%;
+}
+
+.div_10_row {
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    padding-top: 5%;
+}
+
+.div_30 {
+    width: 26%;
+    float: left;
+    margin-left: 3%;
+    padding-top: 5%;
+}
+
+.div_50 {
+    width: 46%;
+    float: left;
+    margin-left: 3%;
+}
+
+.networkTitle {
+    font-size: large;
+    font-weight: bold;
+}
+
+.ligthtext {
+    font-size: small;
+    padding-top: 5%;
+}
+
+.texto {
+    font-family: 'Lato', sans-serif;
+}

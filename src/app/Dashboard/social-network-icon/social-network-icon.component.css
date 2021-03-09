@@ -1,0 +1,33 @@
+.divPrincipal {
+    width: 100%;
+    float: left;
+}
+
+.divIcon {
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.divTextos {
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding-top: 22%;
+    padding-bottom: 3%;
+}
+
+.networkTitle {
+    font-size: large;
+    font-weight: bold;
+}
+
+.networkSubTitle {
+    font-size: medium;
+}
+
+.texto-network {
+    font-family: 'Lato', sans-serif;
+}

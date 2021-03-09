@@ -1,0 +1,47 @@
+.fullBox {
+    width: 100%;
+    float: left;
+}
+
+.box_22 {
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+}
+
+.box_20 {
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+    margin-top: -25%;
+}
+
+.boxgraph_80 {
+    width: 97%;
+    float: left;
+    margin-left: 2%;
+}
+
+.fullbox_20 {
+    width: 25%;
+    float: left;
+    margin-left: 2%;
+}
+
+.fullBox_80 {
+    width: 71%;
+    float: left;
+    margin-left: 2%;
+}
+
+.minibox {
+    width: 97%;
+    float: left;
+    margin-left: 2%;
+}
+
+.box_30 {
+    width: 28%;
+    float: left;
+    margin-left: 3%;
+}

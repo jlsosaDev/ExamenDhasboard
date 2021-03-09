@@ -1,0 +1,36 @@
+.divPrincipal {
+    width: 100%;
+    float: left;
+}
+
+.div_22 {
+    width: 22%;
+    float: left;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
+.div_49 {
+    width: 47%;
+    float: left;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
+.texto {
+    font-family: 'Lato', sans-serif;
+}
+
+.letraTitle {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.letraBolder {
+    font-size: large;
+    font-weight: bolder;
+}
+
+.minleter {
+    font-size: small;
+}

@@ -1,0 +1,54 @@
+.principalDiv {
+    width: 100%;
+    float: left;
+    margin-top: 3%;
+}
+
+.divOne {
+    width: 50%;
+    float: left;
+}
+
+.divtext {
+    float: left;
+    width: 100%;
+}
+
+.divTwo {
+    width: 49%;
+    float: left;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.footerDiv {
+    width: 100%;
+    float: left;
+}
+
+.texto {
+    font-family: 'Lato', sans-serif;
+}
+
+.mintitle {
+    font-weight: bold;
+    font-size: large;
+}
+
+.min-min-title-green {
+    color: rgb(64, 240, 102);
+    font-size: small;
+}
+
+.min-min-title {
+    color: black;
+    font-size: small;
+}
+
+.minSubTitle {
+    font-size: medium;
+}
+
+.margintext {
+    margin-bottom: 20%;
+}

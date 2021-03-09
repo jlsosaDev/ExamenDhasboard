@@ -1,0 +1,66 @@
+.principalDiv {
+    width: 100%;
+    float: left;
+    margin-bottom: 5%;
+}
+
+.insideDiv1 {
+    width: 100%;
+    float: left;
+}
+
+.div-icon30 {
+    width: 28%;
+    float: left;
+    margin-left: 2%;
+}
+
+.texto {
+    font-family: 'Lato', sans-serif;
+}
+
+.letraTitle {
+    font-size: small;
+    font-weight: bold;
+}
+
+.letraBolder {
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.minleter {
+    font-size: small;
+}
+
+.minimargins {
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-bottom: 2%;
+    text-align: left;
+    width: 100%;
+}
+
+.centericon {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.spaceicons {
+    padding-top: 2%;
+}
+
+.center-item {
+    text-align: center;
+}
+
+.purpleColor {
+    color: #dce1f7;
+}
+
+.space-down {
+    padding-bottom: 2%;
+}

@@ -1,0 +1,60 @@
+.cardIconStyle {
+    height: 10em;
+    margin-top: 1em;
+}
+
+.example-card {
+    max-width: 100%;
+    padding: 0;
+}
+
+.headerStyle {
+    background-color: #d4dbf8;
+    /* margin-bottom: -2em;
+    padding-top: 8em; */
+}
+
+.cardContent {
+    background-color: white;
+}
+
+.letter {
+    font-family: 'Lato', sans-serif;
+    color: #7275d8;
+}
+
+.textoTittle {
+    font-family: 'Lato', sans-serif;
+    font-size: large;
+}
+
+.texto {
+    font-family: 'Lato', sans-serif;
+    font-size: small;
+}
+
+
+/* .card img {
+    width: 100%;
+    height: auto;
+} */
+
+.boxContent {
+    width: 100%;
+    float: left;
+}
+
+.boxColumnData {
+    width: 30%;
+    margin-top: 7%;
+    float: left;
+    margin-right: 1%;
+    text-align: center;
+}
+
+.boxColumn {
+    width: 30%;
+    float: left;
+    margin-right: 1%;
+    text-align: center;
+}

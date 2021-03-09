@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'examenAngular2';
+  texto1 ="Orders";
+  texto2 ="Revenue";
+  texto3 = "AveragePrice";
+  texto4 ="$1235";
+  texto5 ="16.2";
+  texto6 = "$35723";
+  icon1 = "bookmark";
+  icon2 = "home";
+  icon3 = "favorite";
 }
